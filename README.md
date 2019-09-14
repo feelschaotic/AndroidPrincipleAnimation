@@ -3,6 +3,8 @@ Demonstrate all the principle  on Android in the form of animation. 用动画的
 
 ## 汇总
 
+### Android
+
 名称 | 动画 
 -|-
 **01.Binder机制** |  ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/Binder.gif)
@@ -17,6 +19,11 @@ Demonstrate all the principle  on Android in the form of animation. 用动画的
 **10.Apk安装过程** |    
 **11.应用进程启动** |    
 
+### 操作系统
+
+名称 | 动画 
+-|-
+**01.虚拟内存** |  ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/虚拟内存.gif)
 
 ## 致谢
 
