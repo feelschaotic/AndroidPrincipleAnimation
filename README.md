@@ -25,6 +25,15 @@ Demonstrate all the principle  on Android in the form of animation. 用动画的
 **01.虚拟内存** |  ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/虚拟内存.gif)
 **02.MMAP内存映射** |  ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/MMAP内存映射技术.gif)   
 
+### 虚拟机
+名称| 动画
+-|-
+**01.虚拟机结构** | 
+**02.GC** | 
+**03.类生命周期** | 
+**04.DVM(Dalvik VM)** |
+**05.ART虚拟机** |
+
 ## 致谢
 
 灵感来源于 MisterBooo 大大的 [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)，感谢！
