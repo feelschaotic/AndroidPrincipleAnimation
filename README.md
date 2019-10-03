@@ -28,7 +28,8 @@ Demonstrate all the principle  on Android in the form of animation. 用动画的
 ### 虚拟机
 名称| 动画
 -|-
-**01.虚拟机结构** | 
+**01.虚拟机结构** |   ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/虚拟机内存结构.gif)
+**02.MMAP内存映射
 **02.GC** | 
 **03.类生命周期** | 
 **04.DVM(Dalvik VM)** |
