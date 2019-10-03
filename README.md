@@ -29,7 +29,7 @@ Demonstrate all the principle  on Android in the form of animation. 用动画的
 名称| 动画
 -|-
 **01.虚拟机结构** |   ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/虚拟机内存结构.gif)
-**02.GC** | 
+**02.GC垃圾回收** | ![](https://github.com/feelschaotic/AndroidPrincipleAnimation/blob/master/GC垃圾回收.gif)
 **03.类生命周期** | 
 **04.DVM(Dalvik VM)** |
 **05.ART虚拟机** |
